@@ -35,7 +35,7 @@ I'm a big fan of fantasy, sci-fi and ancient history. You can also find me playi
  </a>
 
  
-**What's next**:
+## What's next:
  
  <a href="#" target="blank"> <img align="center"  alt="React-Native" title="React-Native"  src="https://seeklogo.com/images/R/react-native-logo-221C671C70-seeklogo.com.png" class="test" width="50" height="50"/> 
  </a>
@@ -47,9 +47,9 @@ I'm a big fan of fantasy, sci-fi and ancient history. You can also find me playi
  
  ## Personal Projects
 
- **History Mate (2022)** - An interactive historical timeline app made with React, Redux, Sequelize/postgreSQL and Firebase authentication
+ **History Mate (2022)** - An interactive historical timeline app made with React, Redux, Sequelize/postgreSQL and Firebase authentication. [Check it out](https://github.com/arkhamz/30-years-front)
 
- **First Contact (2020)** - A space-invaders game made with Python 3.8 and the Pygame library. Game audio effects created  using the Viktor NV-1 synthesiser.
+ **First Contact (2020)** - A space-invaders game made with Python 3.8 and the Pygame library. Game audio effects created  using the Viktor NV-1 synthesiser. [Check it out](https://github.com/arkhamz/first-contact)
 
 <!--
 **arkhamz/arkhamz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -65,5 +65,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - ⚡ Fun fact: ...
 -->
-
-
