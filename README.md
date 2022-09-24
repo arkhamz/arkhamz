@@ -2,32 +2,48 @@
 
 I am a 28 year old ex-scientist from London, England. I am currently living in Den Haag (The Hague), The Netherlands. I am currently working on converting my recent interactive history web-app project to a React Native app.
 
-**A lighter note:**
+**The fun stuff:**
+
 I'm a big fan of fantasy, sci-fi and ancient history. You can also find me playing a bit of badminton, football and Rocket League, or doing a bit of baking.
 
+<!-- <a href="#" target="blank"> </a>
+ -->
+**What I know**:
 
-**The nitty gritty**:
+<a href="#" target="blank">  <img align="center"  src="https://cdn-icons-png.flaticon.com/512/1183/1183671.png" width="50" height="50"/> 
+ </a>
+<a href="#" target="blank">  <img align="center"  src="https://cdn-icons-png.flaticon.com/512/5486/5486420.png" width="50" height="50"/>
+ </a>
+<a href="#" target="blank">  <img align="center"  src="https://cdn-icons-png.flaticon.com/512/1548/1548791.png" width="50" height="50"/>
+ </a>
+<a href="#" target="blank"><img align="center"  src="https://cdn-icons-png.flaticon.com/512/1183/1183621.png" width="50" height="50"/> </a>
+<a href="#" target="blank"><img align="center"  src="https://simpleicons.org/icons/redux.svg" width="50" height="50"/>  </a>
+<a href="#" target="blank">  <img align="center"  src="https://simpleicons.org/icons/express.svg" width="50" height="50"/>
+ </a>
+<a href="#" target="blank"> <img align="center"  src="https://simpleicons.org/icons/sequelize.svg" width="50" height="50"/>
+  </a>
+<a href="#" target="blank">   <img align="center"  src="https://simpleicons.org/icons/firebase.svg" width="50" height="50"/>
+ </a>
 
-What I know:
- - <img src="https://simpleicons.org/icons/html5.svg" width="20" height="20"/> - HTML5
- - <img src="https://simpleicons.org/icons/css3.svg" width="20" height="20"/> - CSS3
- - <img src="https://simpleicons.org/icons/javascript.svg" width="20" height="20"/> - Javascript
- - <img src="https://cdn-icons-png.flaticon.com/512/1183/1183621.png" width="50" height="50"/> - React
-  - <img src="https://simpleicons.org/icons/redux.svg" width="20" height="20"/> - Redux
- - <img src="https://simpleicons.org/icons/express.svg" width="20" height="20"/> - Express Js
- - <img src="https://simpleicons.org/icons/sequelize.svg" width="20" height="20"/> - Sequelize ORM
-  - <img src="https://simpleicons.org/icons/firebase.svg" width="20" height="20"/> - Firebase 
-  
-  What I'm familiar with:
-   - <img src="https://simpleicons.org/icons/python.svg" width="20" height="20"/> - Python
-   - <img src="https://simpleicons.org/icons/django.svg" width="20" height="20"/> - Django
+**What I'm familiar with**:
 
- What's next:
- -  <img src="https://simpleicons.org/icons/react.svg" class="test" width="20" height="20"/>  - React Native
- -  <img src="https://simpleicons.org/icons/typescript.svg" width="20" height="20"/>  - TypeScript
- -  <img src="https://simpleicons.org/icons/nodedotjs.svg" width="20" height="20"/> - Node JS
- -  <img src="https://simpleicons.org/icons/postgresql.svg" width="20" height="20"/> - PostgreSQL
+ <a href="#" target="blank"><img align="center"  src="https://cdn-icons-png.flaticon.com/512/919/919825.png" width="50" height="50"/> 
+  </a>
+ <a href="#" target="blank">    <img align="center"  src="https://cdn-icons-png.flaticon.com/512/5968/5968350.png" width="50" height="50"/> 
+ </a>
+<a href="#" target="blank">    <img align="center"  src="https://simpleicons.org/icons/django.svg" width="50" height="50"/>
+ </a>
+
  
+**What's next**:
+ 
+ <a href="#" target="blank"> <img align="center"  src="https://seeklogo.com/images/R/react-native-logo-221C671C70-seeklogo.com.png" class="test" width="50" height="50"/> 
+ </a>
+<a href="#" target="blank"> <img align="center"  src="https://simpleicons.org/icons/typescript.svg" width="50" height="50"/>
+ </a>
+<a href="#" target="blank"> <img align="center"  src="https://cdn-icons-png.flaticon.com/512/5968/5968342.png" width="50" height="50"/>
+ </a>
+
 <!--
 **arkhamz/arkhamz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
