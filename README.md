@@ -8,7 +8,7 @@ I'm a big fan of fantasy, sci-fi and ancient history. You can also find me playi
 
 <!-- <a href="#" target="blank"> </a>
  -->
-**What I know**:
+## What I know:
 
 <a href="#" target="blank">  <img align="center"  src="https://cdn-icons-png.flaticon.com/512/1183/1183671.png" width="50" height="50"/> 
  </a>
@@ -25,7 +25,7 @@ I'm a big fan of fantasy, sci-fi and ancient history. You can also find me playi
 <a href="#" target="blank">   <img align="center"  src="https://simpleicons.org/icons/firebase.svg" width="50" height="50"/>
  </a>
 
-**What I'm familiar with**:
+## What I'm familiar with:
 
  <a href="#" target="blank"><img align="center"  src="https://cdn-icons-png.flaticon.com/512/919/919825.png" width="50" height="50"/> 
   </a>
@@ -43,9 +43,17 @@ I'm a big fan of fantasy, sci-fi and ancient history. You can also find me playi
  </a>
 <a href="#" target="blank"> <img align="center"  src="https://cdn-icons-png.flaticon.com/512/5968/5968342.png" width="50" height="50"/>
  </a>
+ 
+ 
+ ## Personal Projects
+
+ **History Mate (2022)** - An interactive historical timeline app made with React, Redux, Sequelize/postgreSQL and Firebase authentication
+
+ **First Contact (2020)** - A space-invaders game made with Python 3.8 and the Pygame library. Game audio effects created  using the Viktor NV-1 synthesiser.
 
 <!--
 **arkhamz/arkhamz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Here are some ideas to get you started:
 
