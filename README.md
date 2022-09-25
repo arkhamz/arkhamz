@@ -1,6 +1,6 @@
 ### Hi, I'm Shile 👋
 
-I am a 28 year old ex-scientist from London, England. I am currently living in Den Haag (The Hague), The Netherlands. I am currently working on converting my recent interactive history web-app project to a React Native app.
+I am a 28 year old ex-scientist from London (England), currently living in Den Haag (Netherlands). I am currently working on converting my recent interactive history web-app project to a React Native app.
 
 **The fun stuff:**
 
