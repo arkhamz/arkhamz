@@ -49,7 +49,8 @@ I'm a big fan of fantasy, sci-fi and ancient history. You can also find me playi
 
  **History Mate (2022)** - An interactive historical timeline app made with React, Redux, Sequelize/postgreSQL and Firebase authentication. [Check it out](https://github.com/arkhamz/30-years-front)
 
- **First Contact (2020)** - A space-invaders game made with Python 3.8 and the Pygame library. Game audio effects created  using the Viktor NV-1 synthesiser. [Check it out](https://github.com/arkhamz/first-contact)
+ **First Contact (2020)** - A space-invaders game made with Python 3.8 and the Pygame library. Game audio effects created  using the Viktor NV-1 synthesiser. [Repo](https://github.com/arkhamz/first-contact) +  [Demo](https://historymate.netlify.app/)
+
 
 <!--
 **arkhamz/arkhamz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
