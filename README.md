@@ -51,7 +51,9 @@ I'm a big fan of fantasy, sci-fi and ancient history. You can also find me playi
 
  **First Contact (2020)** - A space-invaders game made with Python 3.8 and the Pygame library. Game audio effects created  using the Viktor NV-1 synthesiser. [Repo](https://github.com/arkhamz/first-contact)
  
- **React carousel-overlay** - A simple reusable carousel overlay component [Demo](https://nature-carousel-shile.netlify.app/)
+ **React carousel-overlay** - A simple reusable carousel overlay component. [Demo](https://nature-carousel-shile.netlify.app/)
+ 
+ **Learning Log** - A simple learning-log micro-blogging type app made with Python & Django. [Demo](http://tractus.herokuapp.com/)
 
 
 <!--
