@@ -53,8 +53,6 @@ I'm a big fan of fantasy, sci-fi and ancient history. You can also find me playi
 
  **First Contact (2020)** - A space-invaders game made with Python 3.8 and the Pygame library. Game audio effects created  using the Viktor NV-1 synthesiser. [Repo](https://github.com/arkhamz/first-contact)
  
- **Learning Log (2020)** - A simple learning-log micro-blogging type app made with Python & Django. [Demo](http://tractus.herokuapp.com/)
-
 
 <!--
 **arkhamz/arkhamz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
