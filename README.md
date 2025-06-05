@@ -24,6 +24,8 @@ I'm a big fan of fantasy, sci-fi and ancient history. You can also find me playi
   </a>
 <a href="#" target="blank">   <img align="center"  alt="Firebase" title="Firebase"  src="https://simpleicons.org/icons/firebase.svg" width="50" height="50"/>
  </a>
+ <a href="#" target="blank">   <img align="center"  alt="PostgreSQL" title="PostgreSQL"  src="https://simpleicons.org/icons/postgresql.svg" width="50" height="50"/>
+ </a>
 
 ## What I'm familiar with:
 
