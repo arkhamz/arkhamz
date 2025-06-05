@@ -34,20 +34,9 @@ I'm a big fan of fantasy, sci-fi and ancient history. You can also find me playi
 <a href="#" target="blank">    <img align="center"  alt="Django" title="Django"  src="https://simpleicons.org/icons/django.svg" width="50" height="50"/>
  </a>
 
- 
-## What's next:
- 
- <a href="#" target="blank"> <img align="center"  alt="React-Native" title="React-Native"  src="https://seeklogo.com/images/R/react-native-logo-221C671C70-seeklogo.com.png" class="test" width="50" height="50"/> 
- </a>
-<a href="#" target="blank"> <img align="center"  alt="TypeScript" title="TypeScript"  src="https://simpleicons.org/icons/typescript.svg" width="50" height="50"/>
- </a>
-<a href="#" target="blank"> <img align="center"  alt="PostgreSQL" title="PostgreSQL"  src="https://cdn-icons-png.flaticon.com/512/5968/5968342.png" width="50" height="50"/>
- </a>
- 
- 
  ## Personal Projects
 
- **History Mate (2022)** - An interactive historical timeline app made with React, Redux, Sequelize/postgreSQL and Firebase authentication. [Repo](https://github.com/arkhamz/30-years-front)  +  [Demo](https://historymate.netlify.app/)
+ **History Mate (2022)** - An interactive historical timeline app made with React, Redux, Sequelize/postgreSQL and Firebase authentication. [Repo](https://github.com/arkhamz/30-years-front) 
  
  **React carousel-overlay (2022)** - A simple reusable carousel overlay component. [Demo](https://nature-carousel-shile.netlify.app/)
 
