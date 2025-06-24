@@ -38,7 +38,7 @@ I'm a big fan of fantasy, sci-fi and ancient history. You can also find me playi
 
  ## Personal Projects
 
- **History Mate (2025)** - An interactive historical timeline app made with typescript, react, leaflet, Redux (Toolkit + Query), postgreSQL, Drizzle, nest.js and passport auth. [Repo](https://github.com/arkhamz/history-mate-rebuild) 
+ **History Mate (2025)** - An interactive historical timeline app made with typescript, react, leaflet, Redux (Toolkit + Query), postgreSQL, Drizzle, nest.js and passport auth. [Repo](https://github.com/arkhamz/history-mate-rebuild)  [Demo](https://history-mate.netlify.app/)
  
  **React carousel-overlay (2022)** - A simple reusable carousel overlay component. [Demo](https://nature-carousel-shile.netlify.app/)
 
