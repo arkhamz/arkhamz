@@ -4,7 +4,7 @@ I am a 30 year old ex-scientist from London (England), currently living in Den H
 
 **The fun stuff:**
 
-I'm a big fan of fantasy, sci-fi and ancient history. You can also find me playing a bit of badminton, football and Rocket League, or doing a bit of baking.
+I'm a big fan of fantasy, sci-fi and ancient history. Some of my hobbies include baking, gaming, badminton and archery.
 
 <!-- <a href="#" target="blank"> </a>
  -->
