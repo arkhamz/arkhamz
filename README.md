@@ -38,7 +38,7 @@ I'm a big fan of fantasy, sci-fi and ancient history. You can also find me playi
 
  ## Personal Projects
 
- **History Mate (2022)** - An interactive historical timeline app made with React, Redux, Sequelize/postgreSQL and Firebase authentication. [Repo](https://github.com/arkhamz/30-years-front) 
+ **History Mate (2025)** - An interactive historical timeline app made with typescript, react, leaflet, Redux (Toolkit + Query), postgreSQL, Drizzle, nest.js and passport auth. [Repo](https://github.com/arkhamz/history-mate-rebuild) 
  
  **React carousel-overlay (2022)** - A simple reusable carousel overlay component. [Demo](https://nature-carousel-shile.netlify.app/)
 
@@ -47,15 +47,3 @@ I'm a big fan of fantasy, sci-fi and ancient history. You can also find me playi
 
 <!--
 **arkhamz/arkhamz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- ⚡ Fun fact: ...
--->
