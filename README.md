@@ -1,6 +1,6 @@
 ### Hi, I'm Shile 👋
 
-I am a 30 year old ex-scientist from London (England), currently living in Den Haag (Netherlands). I am currently working on learning TypeScript, and re-writing my recent interactive history web-app project in TypeScript.
+I am a 30 year old ex-scientist from London (England), currently living in Den Haag (Netherlands).
 
 **The fun stuff:**
 
@@ -40,8 +40,6 @@ I'm a big fan of fantasy, sci-fi and ancient history. Some of my hobbies include
 
  **History Mate (2025)** - An interactive historical timeline app made with typescript, react, leaflet, Redux (Toolkit + Query), postgreSQL, Drizzle, nest.js and passport auth. [Repo](https://github.com/arkhamz/history-mate-rebuild)  [Demo](https://history-mate.netlify.app/)
  
- **React carousel-overlay (2022)** - A simple reusable carousel overlay component. [Demo](https://nature-carousel-shile.netlify.app/)
-
  **First Contact (2020)** - A space-invaders game made with Python 3.8 and the Pygame library. Game audio effects created  using the Viktor NV-1 synthesiser. [Repo](https://github.com/arkhamz/first-contact)
  
 
